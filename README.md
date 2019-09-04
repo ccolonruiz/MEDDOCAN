@@ -1,5 +1,4 @@
-# Protected Health Information Recognition by BiLSTM-CRF. 
-## Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2019).
+# Protected Health Information Recognition by BiLSTM-CRF.
 
 System participating in the [Meddocan task (2019)](http://temu.bsc.es/meddocan/).
 
